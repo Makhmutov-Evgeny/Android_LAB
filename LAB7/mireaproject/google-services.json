@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:439103014842:android:2f1738bf7a1ad1d5693f83",
         "android_client_info": {
-          "package_name": "ru.mirea.kochalievrr.firebaseauth"
+          "package_name": "ru.mirea.makhmutovem.firebaseauth"
         }
       },
       "oauth_client": [],
@@ -28,7 +28,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:439103014842:android:feaf499d371fcd7d693f83",
         "android_client_info": {
-          "package_name": "ru.mirea.kochalievrr.mireaproject"
+          "package_name": "ru.mirea.makhmutovem.mireaproject"
         }
       },
       "oauth_client": [],

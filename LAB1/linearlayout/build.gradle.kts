@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.kochalievrr.linearlayout"
+    namespace = "ru.mirea.makhmutovem.linearlayout"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "ru.mirea.kochalievrr.linearlayout"
+        applicationId = "ru.mirea.makhmutovem.linearlayout"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.kochalievrr.dialog"
+    namespace = "ru.mirea.makhmutovem.dialog"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "ru.mirea.kochalievrr.dialog"
+        applicationId = "ru.mirea.makhmutovem.dialog"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

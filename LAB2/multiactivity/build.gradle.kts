@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.kochalievrr.multiactivity"
+    namespace = "ru.mirea.makhmutovem.multiactivity"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "ru.mirea.kochalievrr.multiactivity"
+        applicationId = "ru.mirea.makhmutovem.multiactivity"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

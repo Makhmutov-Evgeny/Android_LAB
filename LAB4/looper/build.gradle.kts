@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.kochalievrr.looper"
+    namespace = "ru.mirea.makhmutovem.looper"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "ru.mirea.kochalievrr.looper"
+        applicationId = "ru.mirea.makhmutovem.looper"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

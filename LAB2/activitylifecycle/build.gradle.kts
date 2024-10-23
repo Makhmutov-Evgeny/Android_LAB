@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.kochalievrr.activitylifecycle"
+    namespace = "ru.mirea.makhmutovem.activitylifecycle"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "ru.mirea.kochalievrr.activitylifecycle"
+        applicationId = "ru.mirea.makhmutovem.activitylifecycle"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.kochalievrr.timeservice"
+    namespace = "ru.mirea.makhmutovem.timeservice"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "ru.mirea.kochalievrr.timeservice"
+        applicationId = "ru.mirea.makhmutovem.timeservice"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.kochalievrr.yandexmaps"
+    namespace = "ru.mirea.makhmutovem.yandexmaps"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "ru.mirea.kochalievrr.yandexmaps"
+        applicationId = "ru.mirea.makhmutovem.yandexmaps"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

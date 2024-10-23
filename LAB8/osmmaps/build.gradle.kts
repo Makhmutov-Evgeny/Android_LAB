@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.kochalievrr.osmmaps"
+    namespace = "ru.mirea.makhmutovem.osmmaps"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "ru.mirea.kochalievrr.osmmaps"
+        applicationId = "ru.mirea.makhmutovem.osmmaps"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

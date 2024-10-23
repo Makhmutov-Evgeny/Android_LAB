@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.kochalievrr.data_thread"
+    namespace = "ru.mirea.makhmutovem.data_thread"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "ru.mirea.kochalievrr.data_thread"
+        applicationId = "ru.mirea.makhmutovem.data_thread"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

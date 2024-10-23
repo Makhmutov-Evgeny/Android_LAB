@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.kochalievrr.notificationapp"
+    namespace = "ru.mirea.makhmutovem.notificationapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "ru.mirea.kochalievrr.notificationapp"
+        applicationId = "ru.mirea.makhmutovem.notificationapp"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

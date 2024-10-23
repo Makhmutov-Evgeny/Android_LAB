@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.kochalievrr.notebook"
+    namespace = "ru.mirea.makhmutovem.notebook"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "ru.mirea.kochalievrr.notebook"
+        applicationId = "ru.mirea.makhmutovem.notebook"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

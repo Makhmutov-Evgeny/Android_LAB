@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.kochalievrr.player"
+    namespace = "ru.mirea.makhmutovem.player"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "ru.mirea.kochalievrr.player"
+        applicationId = "ru.mirea.makhmutovem.player"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

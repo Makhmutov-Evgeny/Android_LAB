@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.kochalievrr.tablelayout"
+    namespace = "ru.mirea.makhmutovem.tablelayout"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "ru.mirea.kochalievrr.tablelayout"
+        applicationId = "ru.mirea.makhmutovem.tablelayout"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

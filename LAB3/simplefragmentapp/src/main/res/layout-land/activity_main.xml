@@ -7,12 +7,12 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="horizontal">
-        <fragment android:name="ru.mirea.kochalievrr.simplefragmentapp.FirstFragment"
+        <fragment android:name="ru.mirea.makhmutovem.simplefragmentapp.FirstFragment"
             android:id="@+id/list"
             android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="match_parent" />
-        <fragment android:name="ru.mirea.kochalievrr.simplefragmentapp.SecondFragment"
+        <fragment android:name="ru.mirea.makhmutovem.simplefragmentapp.SecondFragment"
             android:id="@+id/viewer"
             android:layout_weight="2"
             android:layout_width="0dp"

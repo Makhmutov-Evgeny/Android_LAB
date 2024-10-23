@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.kochalievrr.lesson7"
+    namespace = "ru.mirea.makhmutovem.lesson7"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "ru.mirea.kochalievrr.lesson7"
+        applicationId = "ru.mirea.makhmutovem.lesson7"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

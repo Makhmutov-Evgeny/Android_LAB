@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.kochalievrr.intentfilter"
+    namespace = "ru.mirea.makhmutovem.intentfilter"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "ru.mirea.kochalievrr.intentfilter"
+        applicationId = "ru.mirea.makhmutovem.intentfilter"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

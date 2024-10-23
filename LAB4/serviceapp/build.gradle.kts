@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.kochalievrr.serviceapp"
+    namespace = "ru.mirea.makhmutovem.serviceapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "ru.mirea.kochalievrr.serviceapp"
+        applicationId = "ru.mirea.makhmutovem.serviceapp"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

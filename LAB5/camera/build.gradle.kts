@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.kochalievrr.camera"
+    namespace = "ru.mirea.makhmutovem.camera"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "ru.mirea.kochalievrr.camera"
+        applicationId = "ru.mirea.makhmutovem.camera"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

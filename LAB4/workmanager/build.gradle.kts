@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.kochalievrr.workmanager"
+    namespace = "ru.mirea.makhmutovem.workmanager"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "ru.mirea.kochalievrr.workmanager"
+        applicationId = "ru.mirea.makhmutovem.workmanager"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

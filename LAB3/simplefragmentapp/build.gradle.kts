@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.kochalievrr.simplefragmentapp"
+    namespace = "ru.mirea.makhmutovem.simplefragmentapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "ru.mirea.kochalievrr.simplefragmentapp"
+        applicationId = "ru.mirea.makhmutovem.simplefragmentapp"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

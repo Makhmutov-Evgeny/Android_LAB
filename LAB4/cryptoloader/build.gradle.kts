@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.kochalievrr.cryptoloader"
+    namespace = "ru.mirea.makhmutovem.cryptoloader"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "ru.mirea.kochalievrr.cryptoloader"
+        applicationId = "ru.mirea.makhmutovem.cryptoloader"
         minSdk = 26
         targetSdk = 34
         versionCode = 1
